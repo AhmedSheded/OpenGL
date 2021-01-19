@@ -1,3 +1,0 @@
-/home/sheded/CLionProjects/untitled7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/sheded/CLionProjects/untitled7/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sheded/CLionProjects/untitled7/cmake-build-debug/CMakeFiles/untitled7.dir
