@@ -1,0 +1,7 @@
+/snap/clion/137/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sheded/CLionProjects/untitled1
+-- Configuring done
+CMake Error at CMakeLists.txt:9 (add_executable):
+  No SOURCES given to target: opengl_projects
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

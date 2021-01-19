@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sheded/CLionProjects/untitled6/main.cpp
+iostream
+-
+GL/glut.h
+/home/sheded/CLionProjects/untitled6/GL/glut.h
+

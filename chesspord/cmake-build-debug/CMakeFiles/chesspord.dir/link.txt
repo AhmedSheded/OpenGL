@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/chesspord.dir/main.cpp.o  -o chesspord  -lglut -lGLU -lGL 
